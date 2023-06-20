@@ -1,0 +1,9 @@
+* cl-gobject-introspection
+
+
+
+|---------+--------------------------------------------------------------|
+| source  | git:https://github.com/andy128k/cl-gobject-introspection.git |
+| commit  | c4fef07                                                      |
+| systems | cl-gobject-introspection                                     |
+|---------+--------------------------------------------------------------|
