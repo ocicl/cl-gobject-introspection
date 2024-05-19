@@ -4,6 +4,6 @@
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://github.com/andy128k/cl-gobject-introspection.git |
-| commit  | 6b30d05                                                      |
+| commit  | 4908a84                                                      |
 | systems | cl-gobject-introspection                                     |
 |---------+--------------------------------------------------------------|
